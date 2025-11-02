@@ -1,0 +1,648 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww17160\viewh14840\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "generated_at": "2025-11-01T12:00:00Z",\
+  "total_listings": 35,\
+  "listings": [\
+    \{\
+      "listing_id": "SCO001",\
+      "status": "active",\
+      "address": "1234 Oak Street, Scottsdale, AZ 85251",\
+      "coordinates": \{\
+        "lat": 33.4942,\
+        "lon": -111.9261\
+      \},\
+      "price": 675000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 3,\
+        "sqft": 2800,\
+        "lot_sqft": 8500,\
+        "year_built": 2019\
+      \},\
+      "features": ["pool", "3-car garage", "granite counters", "tile floors"],\
+      "description": "Beautiful home in desirable DC Ranch. Open floor plan, sparkling pool, premium lot.",\
+      "images": ["https://images.unsplash.com/photo-1600607687644-c7171b42498f"],\
+      "agent_notes": "Access to DC Ranch amenities and events",\
+      "days_on_market": 11\
+    \},\
+    \{\
+      "listing_id": "FOUN001",\
+      "status": "active",\
+      "address": "6842 Fountain Plaza, Fountain Hills, AZ 85268",\
+      "coordinates": \{\
+        "lat": 33.6117,\
+        "lon": -111.7173\
+      \},\
+      "price": 525000,\
+      "specs": \{\
+        "beds": 3,\
+        "baths": 2.5,\
+        "sqft": 2300,\
+        "lot_sqft": 7200,\
+        "year_built": 2013\
+      \},\
+      "features": ["mountain view", "2-car garage", "updated kitchen", "covered patio"],\
+      "description": "Charming home with stunning mountain views. Updated throughout, peaceful desert setting.",\
+      "images": ["https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea"],\
+      "agent_notes": "Views of the famous fountain",\
+      "days_on_market": 9\
+    \},\
+    \{\
+      "listing_id": "SCO011",\
+      "status": "active",\
+      "address": "8314 Sunset Canyon, Scottsdale, AZ 85255",\
+      "coordinates": \{\
+        "lat": 33.6750,\
+        "lon": -111.9050\
+      \},\
+      "price": 850000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 3.5,\
+        "sqft": 3500,\
+        "lot_sqft": 12000,\
+        "year_built": 2020\
+      \},\
+      "features": ["pool", "spa", "outdoor kitchen", "3-car garage", "smart home", "mountain view"],\
+      "description": "Luxurious contemporary estate with dramatic mountain views. Chef's kitchen, resort-style outdoor living.",\
+      "images": ["https://images.unsplash.com/photo-1600573472550-8090b5e0745e"],\
+      "agent_notes": "Builder upgrades worth $75k included",\
+      "days_on_market": 16\
+    \},\
+    \{\
+      "listing_id": "QUES001",\
+      "status": "active",\
+      "address": "2951 Sage Brush Road, Queen Creek, AZ 85142",\
+      "coordinates": \{\
+        "lat": 33.2484,\
+        "lon": -111.6341\
+      \},\
+      "price": 475000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 2.5,\
+        "sqft": 2600,\
+        "lot_sqft": 12000,\
+        "year_built": 2015\
+      \},\
+      "features": ["pool", "3-car garage", "RV parking", "large lot"],\
+      "description": "Spacious family home on oversized lot. Room for RV/boat, sparkling pool, growing community.",\
+      "images": ["https://images.unsplash.com/photo-1600585154363-67eb9e2e2099"],\
+      "agent_notes": "Great value in fast-growing area",\
+      "days_on_market": 4\
+    \}\
+  ]\
+\} garage", "mountain view", "updated kitchen"],\
+      "description": "Stunning modern home in desirable McCormick Ranch. Open floor plan with chef's kitchen, resort-style backyard with heated pool and spa.",\
+      "images": ["https://images.unsplash.com/photo-1600596542815-ffad4c1539a9"],\
+      "agent_notes": "Motivated seller, just reduced price $25k",\
+      "days_on_market": 14\
+    \},\
+    \{\
+      "listing_id": "SCO002",\
+      "status": "active",\
+      "address": "5678 Pine Avenue, Scottsdale, AZ 85254",\
+      "coordinates": \{\
+        "lat": 33.6119,\
+        "lon": -111.8906\
+      \},\
+      "price": 825000,\
+      "specs": \{\
+        "beds": 5,\
+        "baths": 4,\
+        "sqft": 3600,\
+        "lot_sqft": 12000,\
+        "year_built": 2021\
+      \},\
+      "features": ["pool", "spa", "4-car garage", "smart home", "solar panels"],\
+      "description": "Brand new construction in gated community. Energy-efficient smart home with premium finishes throughout.",\
+      "images": ["https://images.unsplash.com/photo-1613490493576-7fde63acd811"],\
+      "agent_notes": "Builder offering $10k closing cost credit",\
+      "days_on_market": 7\
+    \},\
+    \{\
+      "listing_id": "PV001",\
+      "status": "active",\
+      "address": "9012 Elm Drive, Paradise Valley, AZ 85253",\
+      "coordinates": \{\
+        "lat": 33.5434,\
+        "lon": -111.9431\
+      \},\
+      "price": 1250000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 4.5,\
+        "sqft": 4200,\
+        "lot_sqft": 18000,\
+        "year_built": 2018\
+      \},\
+      "features": ["pool", "spa", "casita", "3-car garage", "mountain view", "custom built"],\
+      "description": "Luxury custom estate on oversized lot. Guest casita, outdoor kitchen, stunning Camelback Mountain views.",\
+      "images": ["https://images.unsplash.com/photo-1600585154340-be6161a56a0c"],\
+      "agent_notes": "Owner relocating for work, flexible on timing",\
+      "days_on_market": 21\
+    \},\
+    \{\
+      "listing_id": "SCO003",\
+      "status": "active",\
+      "address": "2468 Maple Court, Scottsdale, AZ 85260",\
+      "coordinates": \{\
+        "lat": 33.5792,\
+        "lon": -111.8908\
+      \},\
+      "price": 550000,\
+      "specs": \{\
+        "beds": 3,\
+        "baths": 2.5,\
+        "sqft": 2200,\
+        "lot_sqft": 7000,\
+        "year_built": 2015\
+      \},\
+      "features": ["pool", "2-car garage", "updated kitchen", "granite counters"],\
+      "description": "Move-in ready home in quiet cul-de-sac. Sparkling pool, upgraded kitchen with stainless appliances.",\
+      "images": ["https://images.unsplash.com/photo-1568605114967-8130f3a36994"],\
+      "agent_notes": "Perfect for first-time buyers",\
+      "days_on_market": 3\
+    \},\
+    \{\
+      "listing_id": "DEMO004",\
+      "status": "active",\
+      "address": "7420 N 82nd Street, Scottsdale, AZ 85258",\
+      "coordinates": \{ "lat": 33.5483, "lon": -111.9067 \},\
+      "price": 690000,\
+      "specs": \{ "beds": 3, "baths": 2, "sqft": 2150, "lot_sqft": 7200, "year_built": 2008 \},\
+      "features": ["pool", "2-car garage", "updated kitchen", "open floor plan"],\
+      "description": "Charming McCormick Ranch home featuring open living space, upgraded kitchen, and a private backyard with heated pool.",\
+      "images": ["https://images.unsplash.com/photo-1564013799919-ab600027ffc6"],\
+      "agent_notes": "Recently repainted, move-in ready.",\
+      "days_on_market": 10\
+    \},\
+    \{\
+      "listing_id": "DEMO005",\
+      "status": "active",\
+      "address": "10145 E Cochise Drive, Scottsdale, AZ 85258",\
+      "coordinates": \{ "lat": 33.5665, "lon": -111.8577 \},\
+      "price": 875000,\
+      "specs": \{ "beds": 4, "baths": 3, "sqft": 3000, "lot_sqft": 9000, "year_built": 2015 \},\
+      "features": ["pool", "spa", "3-car garage", "solar panels", "smart home"],\
+      "description": "Modern energy-efficient home in Gainey Ranch with smart controls, solar panels, and luxury outdoor entertaining space.",\
+      "images": ["https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde"],\
+      "agent_notes": "Low electric bills due to solar system.",\
+      "days_on_market": 5\
+    \},\
+    \{\
+      "listing_id": "DEMO006",\
+      "status": "active",\
+      "address": "18321 N 97th Place, Scottsdale, AZ 85255",\
+      "coordinates": \{ "lat": 33.6545, "lon": -111.8704 \},\
+      "price": 1350000,\
+      "specs": \{ "beds": 5, "baths": 4.5, "sqft": 4500, "lot_sqft": 16000, "year_built": 2020 \},\
+      "features": ["pool", "spa", "outdoor kitchen", "casita", "mountain view"],\
+      "description": "Stunning Silverleaf home with mountain views, guest casita, and a resort-style backyard perfect for entertaining.",\
+      "images": ["https://images.unsplash.com/photo-1613977257363-707ba9348227"],\
+      "agent_notes": "Seller open to quick close.",\
+      "days_on_market": 8\
+    \},\
+    \{\
+      "listing_id": "DEMO007",\
+      "status": "active",\
+      "address": "6402 E Bronco Drive, Paradise Valley, AZ 85253",\
+      "coordinates": \{ "lat": 33.5358, "lon": -111.9403 \},\
+      "price": 1495000,\
+      "specs": \{ "beds": 5, "baths": 5, "sqft": 4800, "lot_sqft": 20000, "year_built": 2017 \},\
+      "features": ["pool", "spa", "guest house", "4-car garage", "views", "wine cellar"],\
+      "description": "Elegant Paradise Valley estate with luxury finishes, guest house, and private pool with mountain backdrop.",\
+      "images": ["https://images.unsplash.com/photo-1600573472550-8090b5e0745e"],\
+      "agent_notes": "Private showings only.",\
+      "days_on_market": 18\
+    \},\
+    \{\
+      "listing_id": "DEMO008",\
+      "status": "active",\
+      "address": "8705 E Appaloosa Trail, Scottsdale, AZ 85258",\
+      "coordinates": \{ "lat": 33.5689, "lon": -111.8914 \},\
+      "price": 755000,\
+      "specs": \{ "beds": 4, "baths": 3, "sqft": 2900, "lot_sqft": 9500, "year_built": 2012 \},\
+      "features": ["pool", "fire pit", "vaulted ceilings", "updated baths"],\
+      "description": "Contemporary family home near McCormick Ranch with updated interiors and large backyard pool oasis.",\
+      "images": ["https://images.unsplash.com/photo-1600585154526-990dced4db0d"],\
+      "agent_notes": "Great rental potential.",\
+      "days_on_market": 13\
+    \},\
+    \{\
+      "listing_id": "DEMO009",\
+      "status": "active",\
+      "address": "9449 E Ironwood Bend, Scottsdale, AZ 85258",\
+      "coordinates": \{ "lat": 33.5668, "lon": -111.8779 \},\
+      "price": 975000,\
+      "specs": \{ "beds": 4, "baths": 3.5, "sqft": 3400, "lot_sqft": 12000, "year_built": 2019 \},\
+      "features": ["pool", "office", "3-car garage", "golf course view"],\
+      "description": "Elegant home backing to golf course in Gainey Ranch. Bright open layout and spacious master suite.",\
+      "images": ["https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea"],\
+      "agent_notes": "HOA includes guard-gated access.",\
+      "days_on_market": 9\
+    \},\
+    \{\
+      "listing_id": "DEMO010",\
+      "status": "active",\
+      "address": "7325 E Pinnacle Peak Road, Scottsdale, AZ 85255",\
+      "coordinates": \{ "lat": 33.6988, "lon": -111.9212 \},\
+      "price": 890000,\
+      "specs": \{ "beds": 4, "baths": 3, "sqft": 3200, "lot_sqft": 11000, "year_built": 2014 \},\
+      "features": ["pool", "smart thermostat", "3-car garage", "mountain views"],\
+      "description": "North Scottsdale home near Pinnacle Peak with scenic mountain views and elegant desert landscaping.",\
+      "images": ["https://images.unsplash.com/photo-1600607687939-ce8a6c25118c"],\
+      "agent_notes": "Smart home upgrades included.",\
+      "days_on_market": 11\
+    \},\
+    \{\
+      "listing_id": "DEMO011",\
+      "status": "active",\
+      "address": "9840 E Cactus Road, Scottsdale, AZ 85260",\
+      "coordinates": \{ "lat": 33.5822, "lon": -111.8687 \},\
+      "price": 610000,\
+      "specs": \{ "beds": 3, "baths": 2, "sqft": 2100, "lot_sqft": 7800, "year_built": 2010 \},\
+      "features": ["pool", "2-car garage", "covered patio", "modern kitchen"],\
+      "description": "Affordable single-story home with updated interior finishes and private backyard pool.",\
+      "images": ["https://images.unsplash.com/photo-1600607687644-c7171b42498f"],\
+      "agent_notes": "Great starter home in central Scottsdale.",\
+      "days_on_market": 15\
+    \},\
+    \{\
+      "listing_id": "DEMO012",\
+      "status": "active",\
+      "address": "16845 N 98th Way, Scottsdale, AZ 85260",\
+      "coordinates": \{ "lat": 33.6367, "lon": -111.8733 \},\
+      "price": 725000,\
+      "specs": \{ "beds": 4, "baths": 3, "sqft": 2850, "lot_sqft": 8700, "year_built": 2016 \},\
+      "features": ["pool", "smart lighting", "3-car garage", "high ceilings"],\
+      "description": "Bright and spacious Kierland-area home with smart lighting and an entertainer's backyard.",\
+      "images": ["https://images.unsplash.com/photo-1572120360610-d971b9d7767c"],\
+      "agent_notes": "Kierland dining and shopping nearby.",\
+      "days_on_market": 6\
+    \},\
+    \{\
+      "listing_id": "DEMO013",\
+      "status": "active",\
+      "address": "7001 E Thunderbird Road, Scottsdale, AZ 85254",\
+      "coordinates": \{ "lat": 33.6104, "lon": -111.9282 \},\
+      "price": 545000,\
+      "specs": \{ "beds": 3, "baths": 2, "sqft": 1950, "lot_sqft": 6800, "year_built": 2007 \},\
+      "features": ["pool", "2-car garage", "energy-efficient windows"],\
+      "description": "Well-maintained home near Kierland Commons featuring energy-efficient upgrades and private pool.",\
+      "images": ["https://images.unsplash.com/photo-1570129477492-45c003edd2be"],\
+      "agent_notes": "Recently replaced HVAC system.",\
+      "days_on_market": 20\
+    \},\
+    \{\
+      "listing_id": "DEMO014",\
+      "status": "active",\
+      "address": "18250 N 75th Street, Scottsdale, AZ 85255",\
+      "coordinates": \{ "lat": 33.6475, "lon": -111.9188 \},\
+      "price": 970000,\
+      "specs": \{ "beds": 5, "baths": 4, "sqft": 4000, "lot_sqft": 13000, "year_built": 2018 \},\
+      "features": ["pool", "spa", "4-car garage", "fireplace", "gourmet kitchen"],\
+      "description": "Spacious home in gated community with large kitchen, multiple entertaining areas, and resort-like pool.",\
+      "images": ["https://images.unsplash.com/photo-1599809275671-b5942cabc7a2"],\
+      "agent_notes": "HOA includes fitness center access.",\
+      "days_on_market": 12\
+    \},\
+    \{\
+      "listing_id": "DEMO015",\
+      "status": "active",\
+      "address": "5225 E Mission Lane, Paradise Valley, AZ 85253",\
+      "coordinates": \{ "lat": 33.5298, "lon": -111.9654 \},\
+      "price": 1480000,\
+      "specs": \{ "beds": 5, "baths": 5, "sqft": 5100, "lot_sqft": 24000, "year_built": 2019 \},\
+      "features": ["pool", "guest house", "home theater", "wine room", "mountain view"],\
+      "description": "Luxury Paradise Valley estate with top-tier finishes, private guest suite, and gorgeous Camelback Mountain views.",\
+      "images": ["https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83"],\
+      "agent_notes": "Custom built with designer upgrades.",\
+      "days_on_market": 16\
+    \},\
+    \{\
+      "listing_id": "DEMO016",\
+      "status": "active",\
+      "address": "22311 N 81st Street, Scottsdale, AZ 85255",\
+      "coordinates": \{ "lat": 33.6885, "lon": -111.9063 \},\
+      "price": 840000,\
+      "specs": \{ "beds": 4, "baths": 3, "sqft": 3100, "lot_sqft": 10000, "year_built": 2013 \},\
+      "features": ["pool", "3-car garage", "covered patio", "granite countertops"],\
+      "description": "North Scottsdale home with elegant finishes, shaded outdoor dining area, and pool for entertaining.",\
+      "images": ["https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"],\
+      "agent_notes": "Backs to greenbelt trail.",\
+      "days_on_market": 14\
+    \},\
+    \{\
+      "listing_id": "DEMO017",\
+      "status": "active",\
+      "address": "7345 E Redfield Road, Scottsdale, AZ 85260",\
+      "coordinates": \{ "lat": 33.6101, "lon": -111.9216 \},\
+      "price": 595000,\
+      "specs": \{ "beds": 3, "baths": 2, "sqft": 2100, "lot_sqft": 7400, "year_built": 2005 \},\
+      "features": ["pool", "2-car garage", "updated baths", "tile flooring"],\
+      "description": "Well-kept single-story home with updated finishes and quiet cul-de-sac location.",\
+      "images": ["https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde"],\
+      "agent_notes": "Vacant\'97easy to show.",\
+      "days_on_market": 19\
+    \},\
+    \{\
+      "listing_id": "DEMO018",\
+      "status": "active",\
+      "address": "15300 N Greenway Hayden Loop, Scottsdale, AZ 85260",\
+      "coordinates": \{ "lat": 33.6245, "lon": -111.9124 \},\
+      "price": 680000,\
+      "specs": \{ "beds": 4, "baths": 3, "sqft": 2800, "lot_sqft": 8800, "year_built": 2011 \},\
+      "features": ["pool", "3-car garage", "home office", "smart security system"],\
+      "description": "Spacious Scottsdale home near golf and shopping with upgraded tech and a refreshing pool.",\
+      "images": ["https://images.unsplash.com/photo-1512917774080-9991f1c4c750"],\
+      "agent_notes": "Includes washer/dryer and fridge.",\
+      "days_on_market": 10\
+    \},\
+    \{\
+      "listing_id": "SCO004",\
+      "status": "active",\
+      "address": "7890 Desert Bloom Lane, Scottsdale, AZ 85262",\
+      "coordinates": \{\
+        "lat": 33.7200,\
+        "lon": -111.8842\
+      \},\
+      "price": 950000,\
+      "specs": \{\
+        "beds": 5,\
+        "baths": 4,\
+        "sqft": 3800,\
+        "lot_sqft": 15000,\
+        "year_built": 2020\
+      \},\
+      "features": ["pool", "spa", "outdoor kitchen", "3-car garage", "smart home", "mountain view"],\
+      "description": "Spectacular North Scottsdale estate. Entertainer's paradise with resort-style backyard and mountain views.",\
+      "images": ["https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde"],\
+      "agent_notes": "Custom upgrades throughout, $100k in landscaping",\
+      "days_on_market": 10\
+    \},\
+    \{\
+      "listing_id": "TEMP001",\
+      "status": "active",\
+      "address": "3456 Saguaro Way, Tempe, AZ 85282",\
+      "coordinates": \{\
+        "lat": 33.4255,\
+        "lon": -111.9400\
+      \},\
+      "price": 425000,\
+      "specs": \{\
+        "beds": 3,\
+        "baths": 2,\
+        "sqft": 1850,\
+        "lot_sqft": 6000,\
+        "year_built": 2010\
+      \},\
+      "features": ["updated kitchen", "hardwood floors", "2-car garage"],\
+      "description": "Charming home near ASU campus. Updated kitchen, beautiful hardwood floors, low-maintenance yard.",\
+      "images": ["https://images.unsplash.com/photo-1570129477492-45c003edd2be"],\
+      "agent_notes": "Great investment property or starter home",\
+      "days_on_market": 5\
+    \},\
+    \{\
+      "listing_id": "SCO005",\
+      "status": "active",\
+      "address": "8765 Sunset Ridge, Scottsdale, AZ 85255",\
+      "coordinates": \{\
+        "lat": 33.6850,\
+        "lon": -111.9200\
+      \},\
+      "price": 1450000,\
+      "specs": \{\
+        "beds": 5,\
+        "baths": 5.5,\
+        "sqft": 5200,\
+        "lot_sqft": 22000,\
+        "year_built": 2022\
+      \},\
+      "features": ["pool", "spa", "casita", "4-car garage", "smart home", "mountain view", "wine cellar", "home theater"],\
+      "description": "Brand new luxury estate in guard-gated community. Every premium feature imaginable including wine cellar and theater.",\
+      "images": ["https://images.unsplash.com/photo-1613977257363-707ba9348227"],\
+      "agent_notes": "Builder's personal residence, immaculate condition",\
+      "days_on_market": 28\
+    \},\
+    \{\
+      "listing_id": "CHAN001",\
+      "status": "active",\
+      "address": "1357 Ocotillo Drive, Chandler, AZ 85249",\
+      "coordinates": \{\
+        "lat": 33.3062,\
+        "lon": -111.8413\
+      \},\
+      "price": 525000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 2.5,\
+        "sqft": 2500,\
+        "lot_sqft": 8000,\
+        "year_built": 2016\
+      \},\
+      "features": ["pool", "3-car garage", "gourmet kitchen", "tile floors"],\
+      "description": "Spacious family home in top-rated school district. Gourmet kitchen, sparkling pool, oversized garage.",\
+      "images": ["https://images.unsplash.com/photo-1605146769289-440113cc3d00"],\
+      "agent_notes": "Seller including all appliances",\
+      "days_on_market": 12\
+    \},\
+    \{\
+      "listing_id": "SCO006",\
+      "status": "active",\
+      "address": "9999 Mountain Shadow, Scottsdale, AZ 85255",\
+      "coordinates": \{\
+        "lat": 33.6900,\
+        "lon": -111.9100\
+      \},\
+      "price": 775000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 3.5,\
+        "sqft": 3200,\
+        "lot_sqft": 10000,\
+        "year_built": 2019\
+      \},\
+      "features": ["pool", "spa", "outdoor kitchen", "3-car garage", "mountain view"],\
+      "description": "Contemporary desert oasis with breathtaking mountain views. Designer finishes and resort-style outdoor living.",\
+      "images": ["https://images.unsplash.com/photo-1580587771525-78b9dba3b914"],\
+      "agent_notes": "Price reduced, very motivated",\
+      "days_on_market": 42\
+    \},\
+    \{\
+      "listing_id": "MESA001",\
+      "status": "active",\
+      "address": "4682 Adobe Circle, Mesa, AZ 85205",\
+      "coordinates": \{\
+        "lat": 33.4255,\
+        "lon": -111.8314\
+      \},\
+      "price": 385000,\
+      "specs": \{\
+        "beds": 3,\
+        "baths": 2,\
+        "sqft": 1650,\
+        "lot_sqft": 6500,\
+        "year_built": 2008\
+      \},\
+      "features": ["updated kitchen", "tile floors", "2-car garage", "covered patio"],\
+      "description": "Well-maintained home in established neighborhood. Updated kitchen, desert landscaping, covered patio.",\
+      "images": ["https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"],\
+      "agent_notes": "Priced to sell quickly",\
+      "days_on_market": 2\
+    \},\
+    \{\
+      "listing_id": "SCO007",\
+      "status": "active",\
+      "address": "6543 Cactus Flower, Scottsdale, AZ 85266",\
+      "coordinates": \{\
+        "lat": 33.7500,\
+        "lon": -111.8650\
+      \},\
+      "price": 1100000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 4,\
+        "sqft": 4000,\
+        "lot_sqft": 16000,\
+        "year_built": 2021\
+      \},\
+      "features": ["pool", "spa", "casita", "3-car garage", "smart home", "golf course view"],\
+      "description": "Stunning contemporary on golf course. Guest casita, premium outdoor living, designer kitchen.",\
+      "images": ["https://images.unsplash.com/photo-1512917774080-9991f1c4c750"],\
+      "agent_notes": "Golf membership transferable",\
+      "days_on_market": 18\
+    \},\
+    \{\
+      "listing_id": "GILB001",\
+      "status": "active",\
+      "address": "8520 Heritage Boulevard, Gilbert, AZ 85296",\
+      "coordinates": \{\
+        "lat": 33.3528,\
+        "lon": -111.7890\
+      \},\
+      "price": 625000,\
+      "specs": \{\
+        "beds": 5,\
+        "baths": 3,\
+        "sqft": 3100,\
+        "lot_sqft": 9000,\
+        "year_built": 2017\
+      \},\
+      "features": ["pool", "3-car garage", "loft", "upgraded flooring"],\
+      "description": "Spacious two-story in family-friendly Gilbert. Loft upstairs, sparkling pool, near excellent schools.",\
+      "images": ["https://images.unsplash.com/photo-1572120360610-d971b9d7767c"],\
+      "agent_notes": "Seller very motivated, considers all offers",\
+      "days_on_market": 8\
+    \},\
+    \{\
+      "listing_id": "SCO008",\
+      "status": "active",\
+      "address": "7412 Painted Desert Drive, Scottsdale, AZ 85251",\
+      "coordinates": \{\
+        "lat": 33.4900,\
+        "lon": -111.9150\
+      \},\
+      "price": 725000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 3,\
+        "sqft": 2900,\
+        "lot_sqft": 9500,\
+        "year_built": 2018\
+      \},\
+      "features": ["pool", "spa", "3-car garage", "updated kitchen", "mountain view"],\
+      "description": "Modern home with mountain views in Old Town Scottsdale. Open concept living, resort backyard.",\
+      "images": ["https://images.unsplash.com/photo-1599809275671-b5942cabc7a2"],\
+      "agent_notes": "Walking distance to restaurants and galleries",\
+      "days_on_market": 15\
+    \},\
+    \{\
+      "listing_id": "PHOE001",\
+      "status": "active",\
+      "address": "3690 Biltmore Circle, Phoenix, AZ 85016",\
+      "coordinates": \{\
+        "lat": 33.5200,\
+        "lon": -112.0100\
+      \},\
+      "price": 895000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 3.5,\
+        "sqft": 3400,\
+        "lot_sqft": 11000,\
+        "year_built": 2019\
+      \},\
+      "features": ["pool", "spa", "outdoor kitchen", "3-car garage", "smart home"],\
+      "description": "Elegant home in prestigious Biltmore area. Entertainer's dream with gourmet kitchen and resort backyard.",\
+      "images": ["https://images.unsplash.com/photo-1600585154526-990dced4db0d"],\
+      "agent_notes": "Walk to Biltmore Fashion Park",\
+      "days_on_market": 20\
+    \},\
+    \{\
+      "listing_id": "SCO009",\
+      "status": "active",\
+      "address": "5280 Tranquil Trail, Scottsdale, AZ 85254",\
+      "coordinates": \{\
+        "lat": 33.6200,\
+        "lon": -111.8850\
+      \},\
+      "price": 599000,\
+      "specs": \{\
+        "beds": 3,\
+        "baths": 2.5,\
+        "sqft": 2400,\
+        "lot_sqft": 7500,\
+        "year_built": 2014\
+      \},\
+      "features": ["pool", "2-car garage", "updated kitchen", "covered patio"],\
+      "description": "Charming single-level home in quiet neighborhood. Sparkling pool, updated kitchen, easy-care landscaping.",\
+      "images": ["https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83"],\
+      "agent_notes": "Perfect for downsizers or empty nesters",\
+      "days_on_market": 6\
+    \},\
+    \{\
+      "listing_id": "CAVE001",\
+      "status": "active",\
+      "address": "9876 Desert Vista, Cave Creek, AZ 85331",\
+      "coordinates": \{\
+        "lat": 33.8300,\
+        "lon": -111.9500\
+      \},\
+      "price": 1350000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 4.5,\
+        "sqft": 4500,\
+        "lot_sqft": 40000,\
+        "year_built": 2020\
+      \},\
+      "features": ["pool", "spa", "casita", "4-car garage", "mountain view", "horse property"],\
+      "description": "Stunning desert estate on nearly 1 acre. Panoramic mountain views, guest casita, room for horses.",\
+      "images": ["https://images.unsplash.com/photo-1600607687939-ce8a6c25118c"],\
+      "agent_notes": "Rare horse property with city amenities nearby",\
+      "days_on_market": 35\
+    \},\
+    \{\
+      "listing_id": "SCO010",\
+      "status": "active",\
+      "address": "4125 Verde Valley Lane, Scottsdale, AZ 85259",\
+      "coordinates": \{\
+        "lat": 33.6500,\
+        "lon": -111.9300\
+      \},\
+      "price": 675000,\
+      "specs": \{\
+        "beds": 4,\
+        "baths": 3,\
+        "sqft": 2850,\
+        "lot_sqft": 8800,\
+        "year_built": 2016\
+      \},\
+      "features": ["pool", "3-car}
